@@ -1,0 +1,15 @@
+[submodule "kotlin"]
+	path = kotlin
+	url = https://github.com/JetBrains/kotlin-web-site.git
+[submodule "gradle"]
+	path = gradle
+	url = https://github.com/gradle/gradle.git
+[submodule "spring-boot"]
+	path = spring-boot
+	url = https://github.com/spring-projects/spring-boot.git
+[submodule "spring-data-jpa"]
+	path = spring-data-jpa
+	url = https://github.com/spring-projects/spring-data-jpa.git
+[submodule "hibernate-orm"]
+	path = hibernate-orm
+	url = https://github.com/hibernate/hibernate-orm.git
